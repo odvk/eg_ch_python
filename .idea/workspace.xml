@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ef99f32-15cc-4f42-b6df-9a98187a2bb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/les07_ex01_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/les07_ex01_del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/les07_ex02_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/les07_ex02_del.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/les07_ex02_del.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                <state>
+                  <caret column="27" selection-start-column="27" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
@@ -115,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.les07_ex01_del">
+  <component name="RunManager" selected="Python.les07_ex02_del">
     <configuration name="l06_ex01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eg_ch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="perimetr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="les07_ex02_del" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eg_ch_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,12 +190,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/perimetr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les07_ex02_del.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.les07_ex02_del" />
         <item itemvalue="Python.les07_ex01_del" />
         <item itemvalue="Python.l06_ex01_printfn" />
         <item itemvalue="Python.l06_ex01" />
         <item itemvalue="Python.shnurki" />
-        <item itemvalue="Python.perimetr" />
       </list>
     </recent_temporary>
   </component>
@@ -248,23 +248,23 @@
       <updated>1559446328230</updated>
       <workItem from="1559446329388" duration="2137000" />
       <workItem from="1559448708553" duration="7725000" />
-      <workItem from="1559621454146" duration="1627000" />
+      <workItem from="1559621454146" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11489000" />
+    <option name="totallyTimeSpent" value="11838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="105" y="106" width="1358" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2542373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27853882" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27853882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,6 +318,7 @@
     <SUITE FILE_PATH="coverage/eg_ch_python$l04_ex01.coverage" NAME="l04_ex01 Coverage Results" MODIFIED="1559468725494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
     <SUITE FILE_PATH="coverage/eg_ch_python$l06_ex01_printfn.coverage" NAME="l06_ex01_printfn Coverage Results" MODIFIED="1559621479908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/eg_ch_python$les07_ex01_del.coverage" NAME="les07_ex01_del Coverage Results" MODIFIED="1559622973170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eg_ch_python$les07_ex02_del.coverage" NAME="les07_ex02_del Coverage Results" MODIFIED="1559623367007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lesson2/l02_ex1.py">
@@ -380,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/les07_ex02_del.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
